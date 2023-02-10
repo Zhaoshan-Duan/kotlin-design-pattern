@@ -1,4 +1,4 @@
-package Creational.Factory
+package creational.Factory
 
 class Burger(var ingredients: List<String>){
     fun print(){
@@ -20,4 +20,10 @@ class BurgerFactory {
         val ingredients = listOf("bun", "special-sauce", "veggie-patty")
         return Burger(ingredients)
     }
+}
+
+fun main(){
+    BurgerFactory().createCheeseBurger().print()
+    BurgerFactory().createDeluexCheeseBurger().print()
+    BurgerFactory().createVeganBurger().print()
 }

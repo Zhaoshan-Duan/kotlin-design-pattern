@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ac899b4-b427-4b6a-8572-0201334e15e0" name="Changes" comment="" />
+    <list default="true" id="0ac899b4-b427-4b6a-8572-0201334e15e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/behavioral/observer/Observer.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/builder/Builder.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creational/singleton/ApplicationState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/Factory/BurgerFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/creational/Factory/BurgerFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Creational/Factory/Runner.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-design-pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-design-pattern/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-design-pattern/Creational/Factory/Burger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-design-pattern/Creational/Factory/Burger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-design-pattern/Creational/Factory/BurgerFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-design-pattern/Creational/Factory/BurgerFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-design-pattern/Creational/Factory/RunnerKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-design-pattern/Creational/Factory/RunnerKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/kotlin-design-pattern/META-INF/kotlin-design-pattern.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/kotlin-design-pattern/META-INF/kotlin-design-pattern.kotlin_module" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -34,12 +47,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/duan9/IdeaProjects/kotlin-data-structure-and-algo"
+    "last_opened_file_path": "C:/Users/duan9/IdeaProjects/leetcode_video"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.BuilderKt">
+    <configuration name="BuilderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.builder.BuilderKt" />
+      <module name="kotlin-design-pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunnerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Creational.Factory.RunnerKt" />
+      <option name="MAIN_CLASS_NAME" value="creational.Factory.RunnerKt" />
       <module name="kotlin-design-pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -47,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BuilderKt" />
         <item itemvalue="Kotlin.RunnerKt" />
       </list>
     </recent_temporary>
